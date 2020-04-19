@@ -10,7 +10,7 @@ class Solution():
     
     def plusOne(self, nums):
         index = len(nums) - 1
-        for i in range(len(nums)):
+        for _ in range(len(nums)):
             if nums[index] == 9:
                 nums[index] = 0
                 index -=1

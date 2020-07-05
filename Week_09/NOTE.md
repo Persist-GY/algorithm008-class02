@@ -3,7 +3,7 @@
 # 以下随着自己重新过一遍会把自己做过的题都会记在下边，以便于以后针对性复习。
 
 第一周：
-    一、数组
+    1) 数组
     1.https://leetcode.com/problems/climbing-stairs/  # 爬楼梯（斐波那契数列）
     2.https://leetcode-cn.com/problems/container-with-most-water/  # 盛水最多容器
     3.https://leetcode-cn.com/problems/move-zeroes/  # 移动零问题
